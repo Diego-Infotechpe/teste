@@ -1,0 +1,6 @@
+{
+  "name": "InfotechPE Outsourcing",
+  "description": "Sistema de gestão de outsourcing de impressão da InfotechPE, contendo controle de clientes, impressoras, contadores, insumos (toner/cilindro) e faturamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
